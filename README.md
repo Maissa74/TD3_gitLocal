@@ -90,6 +90,55 @@ Les informations affichées dans les journaux Git sont les identifiants de commi
 ```
 
 
+#EX3
 
+```
+Q1
+touch main.py
+touch functions.py
+
+```
+
+```
+Q2
+git status
+
+```
+
+```
+Q3
+git add main.py
+
+```
+
+```
+Q4
+git status
+
+```
+```
+Q5
+git commit -m "Add main.py file"
+
+```
+```
+Q6
+git status
+```
+```
+Q7
+git add functions.py
+git commit -m "Add functions.py file"
+
+```
+```
+Q8
+git status 
+```
+```
+Q9
+git log
+
+```
 
 
